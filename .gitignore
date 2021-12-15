@@ -1,0 +1,7 @@
+classes
+build
+out
+.gradle
+.idea/*
+!.idea/codeStyles/
+!.idea/codeStyles/.gradle
